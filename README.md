@@ -1,1 +1,2 @@
 # Food_Ordering_App
+Food Ordering Project is an online platform where users can browse through a variety of restaurants and dishes, select their desired items, and easily reorder their previous meals. Restaurants are able to create profiles, update their menus, and manage incoming orders through a user-friendly interface. The project aims to simplify the food ordering process for both customers and restaurants, offering a convenient and efficient way to order and enjoy meals.
